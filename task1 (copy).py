@@ -52,7 +52,7 @@ print("pscore is"+str(pscore))
 if (cscore>pscore):
 	print("ur efforts are over.. come again to challenge ur self as computer wins it")
 else:
-	print("u are champion")
+	print("u are champion of champion")
 	
 
 			
